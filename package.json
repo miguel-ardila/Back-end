@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/miguel-ardila/Back-end/issues"
   },
-  "homepage": "https://github.com/miguel-ardila/Back-end#readme"
+  "homepage": "https://github.com/miguel-ardila/Back-end#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
